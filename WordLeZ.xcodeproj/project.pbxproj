@@ -6,12 +6,28 @@
 	objectVersion = 70;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		B605D2552CB42FA400A6715A /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = B605D2542CB42FA400A6715A /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		B605D1E92CB2527A00A6715A /* WordLeZ.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WordLeZ.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B605D2542CB42FA400A6715A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		B605D2592CB4348200A6715A /* PBXFileSystemSynchronizedBuildFileExceptionSet */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				demo_iOS.png,
+			);
+			target = B605D1E82CB2527A00A6715A /* WordLeZ */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		B605D1EB2CB2527A00A6715A /* WordLeZ */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = WordLeZ; sourceTree = "<group>"; };
+		B605D2562CB4344100A6715A /* Resources */ = {isa = PBXFileSystemSynchronizedRootGroup; exceptions = (B605D2592CB4348200A6715A /* PBXFileSystemSynchronizedBuildFileExceptionSet */, ); explicitFileTypes = {}; explicitFolders = (); path = Resources; sourceTree = "<group>"; };
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -28,8 +44,10 @@
 		B605D1E02CB2527A00A6715A = {
 			isa = PBXGroup;
 			children = (
+				B605D2562CB4344100A6715A /* Resources */,
 				B605D1EB2CB2527A00A6715A /* WordLeZ */,
 				B605D1EA2CB2527A00A6715A /* Products */,
+				B605D2542CB42FA400A6715A /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -104,6 +122,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B605D2552CB42FA400A6715A /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
