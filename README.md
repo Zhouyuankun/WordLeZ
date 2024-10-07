@@ -17,6 +17,5 @@ Feature:
 - The **target word** length is limited between 3 to 7
 
 Hope you enjoy it !
-
-![运行DEMO](https://github.com/Zhouyuankun/WordLeZ/blob/main/Resources/demo_iOS.png=x400?raw=true)
+<img src=https://github.com/Zhouyuankun/WordLeZ/blob/main/Resources/demo_iOS.png?raw=true) width=60% />
 
