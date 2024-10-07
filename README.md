@@ -18,5 +18,5 @@ Feature:
 
 Hope you enjoy it !
 
-![运行DEMO](https://github.com/Zhouyuankun/WordLeZ/blob/main/Resources/demo_iOS.png?raw=true)
+![运行DEMO](https://github.com/Zhouyuankun/WordLeZ/blob/main/Resources/demo_iOS.png=x400?raw=true)
 
